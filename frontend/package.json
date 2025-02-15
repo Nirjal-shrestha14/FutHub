@@ -1,0 +1,14 @@
+{
+  "name": "futhub2-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "flutter run",
+    "build": "flutter build",
+    "test": "flutter test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "flutter": ">=3.10.0"
+  }
+}
